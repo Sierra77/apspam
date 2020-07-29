@@ -1,0 +1,14 @@
+[
+{
+	"ssid":"test1",
+	"mac":"aa:bb:cc:11:22:11"
+},
+{
+        "ssid":"test2",
+        "mac":"aa:bb:cc:11:22:22"
+},
+{
+        "ssid":"test3",
+        "mac":"aa:bb:cc:11:22:33"
+}
+]
